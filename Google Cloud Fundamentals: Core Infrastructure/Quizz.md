@@ -393,3 +393,120 @@
     To reduce cost
 
 </details>
+
+## Storage in the Cloud
+
+### Question 1
+
+`Which SQL database service can scale to petabyte database sizes?`
+
+- Cloud SQL
+
+- Cloud Spanner
+
+- Bigtable
+
+- Firestore
+
+<details>
+    <summary>Answer</summary>
+
+    Cloud Spanner
+
+</details>
+
+### Question 2
+
+`Your application needs to store data with strong transactional consistency, and you want seamless scaling up. Which storage option is the best choice for your application?`
+
+- Cloud Spanner
+
+- Cloud SQL
+
+- Cloud Storage
+
+- Firestore
+
+<details>
+    <summary>Answer</summary>
+
+    Cloud Spanner
+
+</details>
+
+### Question 3
+
+`Why would a customer consider the Coldline Storage class?`
+
+- To save money on storing infrequently accessed data
+
+- To save money on storing frequently accessed data
+
+- To improve security
+
+- To use the Coldline Storage API
+
+<details>
+    <summary>Answer</summary>
+
+    To save money on storing infrequently accessed data
+
+</details>
+
+### Question 4
+
+`Which statement describes the correct Cloud Storage use case?`
+
+- Cloud Storage provides the root file system of a Linux virtual machine.
+
+- Cloud Storage provides durable and highly available object storage.
+
+- Cloud Storage provides data warehousing services.
+
+- Cloud Storage provides RDBMS (Relational Database Management System) services.
+
+<details>
+    <summary>Answer</summary>
+
+    Cloud Storage provides durable and highly available object storage.
+
+</details>
+
+### Question 5
+
+`How are Firestore and Bigtable alike? (Select two answers.)`
+
+- They are both NoSQL databases.
+
+- They are both highly scalable.
+
+- They both offer SQL-like queries.
+
+- They both have a free daily quota.
+
+<details>
+    <summary>Answer</summary>
+
+    - They are both NoSQL databases.
+    - They are both highly scalable.
+
+</details>
+
+### Question 6
+
+`You manufacture devices with sensors and need to stream huge amounts of data from these devices to a storage option in the cloud. Which storage option is the best choice for your application?`
+
+- Bigtable
+
+- Firestore
+
+- BigQuery
+
+- Cloud Spanner
+
+<details>
+    <summary>Answer</summary>
+
+    Bigtable
+
+</details>
