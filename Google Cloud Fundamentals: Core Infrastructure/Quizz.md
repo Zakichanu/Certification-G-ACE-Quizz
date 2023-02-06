@@ -510,3 +510,136 @@
     Bigtable
 
 </details>
+
+## Containers in the Cloud
+
+### Question 1
+
+`What is a Kubernetes pod?`
+
+- A group of clusters
+
+- A group of VMs
+
+- A group of containers
+
+- A group of nodes
+
+<details>
+    <summary>Answer</summary>
+
+    A group of containers
+
+</details>
+
+### Question 2
+
+`Select two reasons for using containers to deploy applications. (Choose 2 responses.)`
+
+- It provides tight coupling between applications and operating systems.
+
+- Migrating workloads is simpler.
+
+- It creates consistency across development, testing, and production environments.
+
+- Allocating resources in which to run containers is not necessary.
+
+<details>
+    <summary>Answer</summary>
+
+    - It creates consistency across development, testing, and production environments.
+    - Allocating resources in which to run containers is not necessary.
+
+</details>
+
+### Question 3
+
+`How do containers access an operating system?`
+
+- Containers use a shared base operating system stored in a shared kernel layer.
+
+- Containers use a shared base operating system stored in a shared runtime layer.
+
+- Each container has its own instance of an operating system.
+
+- Containers use a shared base operating system stored in a Cloud Storage bucket.
+
+<details>
+    <summary>Answer</summary>
+
+    Containers use a shared base operating system stored in a shared kernel layer.
+</details>
+
+### Question 4
+
+`How do you keep your Kubernetes version updated in Google Kubernetes Engine?`
+
+- You are required to set up a cron job to periodically check the Kubernetes version in your cluster.
+
+- You cannot update a running cluster. You need to create a copy of the cluster with the updated Kubernetes version.
+
+- The Google Kubernetes Engine team periodically performs automatic upgrades of your cluster to newer stable versions.
+
+- You need to stop your cluster and manually update the Kubernetes version in your cluster.
+
+<details>
+    <summary>Answer</summary>
+
+    The Google Kubernetes Engine team periodically performs automatic upgrades of your cluster to newer stable versions.
+
+</details>
+
+### Question 5
+
+`What is a Kubernetes cluster?`
+
+- A group of containers that provide high availability for applications.
+
+- A group of machines where Kubernetes can schedule workloads.
+
+- A group of pods that manage the administration of a Kubernetes application.
+
+<details>
+    <summary>Answer</summary>
+
+    A group of machines where Kubernetes can schedule workloads.
+
+</details>
+
+### Question 6
+
+`Anthos provides a rich set of tools for monitoring and maintaining the consistency of your applications across which of the following locations?`
+
+- Applications hosted with one cloud provider only.
+
+- Applications hosted on-premises, in the cloud, or in multiple clouds.
+
+- Applications hosted on-premises only.
+
+- Applications hosted with multiple cloud providers only.
+
+<details>
+    <summary>Answer</summary>
+
+    Applications hosted on-premises, in the cloud, or in multiple clouds.
+
+</details>
+
+### Question 7
+
+`Where do the resources used to build Google Kubernetes Engine clusters come from?`
+
+- App Engine
+
+- Cloud Storage
+
+- Compute Engine
+
+- Bare metal servers
+
+<details>
+    <summary>Answer</summary>
+
+    Compute Engine
+
+</details>
