@@ -643,3 +643,128 @@
     Compute Engine
 
 </details>
+
+
+## Application in the Cloud
+
+### Question 1
+
+`Which statements are true about App Engine? (Select 2).`
+
+- App Engine requires you to supply or code your own application load balancing and logging services.
+
+- App Engine charges you based on the resources you preallocate instead of the resources you use.
+
+- The daily billing for an App Engine application can drop to zero.
+
+- Developers who write for App Engine do not need to code their applications in any particular way to use the service.
+
+- App Engine manages the hardware and networking infrastructure required to run your code.
+
+<details>
+    <summary>Answer</summary>
+
+    - The daily billing for an App Engine application can drop to zero.
+    - App Engine manages the hardware and networking infrastructure required to run your code.
+
+</details>
+
+### Question 2
+
+`Cloud Run can only pull images from:`
+
+- Self-hosted registries
+
+- GitHub
+
+- Docker Hub
+
+- Artifact Registry
+
+<details>
+    <summary>Answer</summary>
+
+    Artifact Registry
+
+
+</details>
+
+### Question 3
+
+`Select the managed compute platform that lets you run stateless containers through web requests or Pub/Sub events.`
+
+- Cloud Endpoints
+
+- Cloud Source Repositories
+
+- Apigee Edge
+
+- Cloud Run
+
+<details>
+    <summary>Answer</summary>
+
+    Cloud Run
+
+</details>
+
+### Question 4
+
+`App Engine is best suited to the development and hosting of which type of application?`
+
+- Applications that require full control of the hardware they are running on
+
+- Applications that require at least one instance running at all times.
+
+- A long-running batch processing application
+
+- A web application
+
+<details>
+    <summary>Answer</summary>
+
+    A web application
+
+</details>
+
+### Question 5
+
+`What are the advantages of using App Engine’s flexible environment instead of its standard environment? (Select 3).`
+
+- You can install third-party binaries.
+
+- Google provides automatic in-place security patches.
+
+- Your application can write to the local disk.
+
+- Your application can execute code in background threads.
+
+- You can use SSH to connect to the virtual machines on which your application runs.
+
+<details>
+    <summary>Answer</summary>
+
+    - You can install third-party binaries.
+    - Your application can write to the local disk.
+    - You can use SSH to connect to the virtual machines on which your application runs.
+
+</details>
+
+### Question 6
+
+`Which Google Cloud service should you choose to perform business analytics and billing on a customer-facing API?`
+
+- Compute Engine API
+
+- Cloud Run API
+
+- Cloud Endpoints
+
+- Apigee Edge
+
+<details>
+    <summary>Answer</summary>
+
+    Apigee Edge
+
+</details>
