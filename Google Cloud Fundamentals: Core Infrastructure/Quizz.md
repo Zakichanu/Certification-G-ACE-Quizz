@@ -768,3 +768,83 @@
     Apigee Edge
 
 </details>
+
+## Developing and Deploying in the Cloud
+
+### Question 1
+
+`Why would a developer choose to store source code in Cloud Source Repositories? (Select 2)`
+
+- To reduce work
+
+- To keep code private to a Google Cloud project
+
+- To have total control over the hosting infrastructure
+
+- It is the only way to access your source code in a repository.
+
+
+<details>
+    <summary>Answer</summary>
+
+    - To keep code private to a Google Cloud project
+    - To reduce work
+
+</details>
+
+### Question 2
+
+`Why might a Google Cloud customer choose to use Terraform?`
+
+- Terraform can be used as an infrastructure management system for Google Cloud resources.
+
+- Terraform can be used as an infrastructure management system for Kubernetes pods.
+
+- Terraform can be used as a version-control system for your Google Cloud infrastructure layout.
+
+- Terraform can be used to enforce maximum resource utilization and spending limits on your Google Cloud resources.
+
+<details>
+    <summary>Answer</summary>
+
+    Terraform can be used as an infrastructure management system for Google Cloud resources.
+
+</details>
+
+### Question 3
+
+`Why might a Google Cloud customer choose to use Cloud Functions?`
+
+- Their application contains event-driven code that they don't want to provision compute resources for.
+
+- Cloud Functions is a free service for hosting compute operations.
+
+- Cloud Functions is the primary way to run Node.js applications in Google Cloud.
+
+- Their application has a legacy monolithic structure that they want to separate into microservices.
+
+<details>
+    <summary>Answer</summary>
+
+    Their application contains event-driven code that they don't want to provision compute resources for.
+
+</details>
+
+### Question 4
+
+`Select the advantage of putting the event-driven components of your application into Cloud Functions.`
+
+- Cloud Functions handles scaling these components seamlessly.
+
+- In Cloud Functions, code can be written in C# or C++.
+
+- In Cloud Functions, processing is always free of charge.
+
+- Cloud Functions eliminates the need to use a separate service to trigger application events.
+
+<details>
+    <summary>Answer</summary>
+
+    Cloud Functions handles scaling these components seamlessly.
+
+</details>
