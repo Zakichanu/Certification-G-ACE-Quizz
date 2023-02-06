@@ -8,4 +8,4 @@ This repository contains the labs for the Google Associate Cloud Engineer certif
 
 - ### [Preparing for your associate cloud engineer exam](./Preparing%20for%20Your%20Associate%20Cloud%20Engineer%20Journey/Quizz.md)
 
-- ### [Google Cloud Fundementals](./Google%20Cloud%20Fundamentals/Quizz.md)
+- ### [Google Cloud Fundementals](./Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure/)
