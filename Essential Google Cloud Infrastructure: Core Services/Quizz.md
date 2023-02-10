@@ -1,5 +1,26 @@
 # Essential Google Cloud Infrastructure: Core Services
 
+## Table of Contents
+
+- [Essential Google Cloud Infrastructure: Core Services](#essential-google-cloud-infrastructure-core-services)
+  - [Table of Contents](#table-of-contents)
+  - [Identity and Access Management](#identity-and-access-management)
+    - [Question 1](#question-1)
+    - [Question 2](#question-2)
+    - [Question 3](#question-3)
+  - [Storage and Database Services](#storage-and-database-services)
+    - [Question 1](#question-1-1)
+    - [Question 2](#question-2-1)
+    - [Question 3](#question-3-1)
+  - [Resource Management](#resource-management)
+    - [Question 1](#question-1-2)
+    - [Question 2](#question-2-2)
+    - [Question 3](#question-3-2)
+  - [Resource Monitoring](#resource-monitoring)
+    - [Question 1](#question-1-3)
+    - [Question 2](#question-2-3)
+    - [Question 3](#question-3-3)
+
 ## Identity and Access Management
 
 ### Question 1
