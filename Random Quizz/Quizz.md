@@ -383,3 +383,69 @@ D. Use the Google Cloud Pricing Calculator to enter your consumption for all gro
     C. Use the Google Cloud Pricing Calculator to enter your predicted consumption for all groups of resources.
 
 </details>
+
+## Question 21
+
+`A company has built an application on Google Cloud that uses Cloud Spanner. The support team needs to monitor the environment but should not have access to table data.
+
+They need a streamlined solution to grant the correct permissions to the support team. They want to follow Google-recommended practices.
+
+What should be done?`
+
+A. Add the support team group to the roles/spanner.databaseReader role
+
+B. Add the support team group to the roles/monitoring.viewer role
+
+C. Add the support team group to the roles/spanner.databaseUser role
+
+D. Add the support team group to the roles/spanner.databaseUser role
+
+<details>
+    <summary>Answer</summary>
+
+    B. Add the support team group to the roles/monitoring.viewer role
+
+</details>
+
+## Question 22
+
+`A cloud engineering team has an inventory application with 2 backend API servers launched using Auto Scaling Groups. The team has been asked to load balance UDP, TCP, and SSL traffic on ports that are not supported by the TCP proxy and SSL proxy loader.
+
+Which of the following Load Balancer is the best option?`
+
+A. SSL Proxy Load Balancer
+
+B. Network Load Balancer
+
+C. HTTPS Load Balancer
+
+D. TCP Proxy Load Balancer
+
+<details>
+    <summary>Answer</summary>
+
+    B. Network Load Balancer
+
+</details>
+
+## Question 23
+
+`You are a cloud engineer working for a digital media company. Your team has assigned you the task of choosing the best method for transferring 50TB of data from the on-premise network to the Google Cloud network. In addition, they need to choose the optimal storage solution as they need to access the videos weekly and image files roughly every 3 months.
+
+What combination of services will satisfy the requirement?`
+
+A. Storage Transfer Service and Standard Storage for videos, Coldline Storage for images files
+
+B. Transfer Appliance and Standard Storage for videos, Coldline Storage for images files
+
+C. Transfer Appliance and Coldline Storage for videos, Standard Storage for images files
+
+D. Storage Transfer Service and Coldline Storage for videos, Standard Storage for images files
+
+<details>
+    <summary>Answer</summary>
+
+    B. Transfer Appliance and Standard Storage for videos, Coldline Storage for images files
+
+</details>
+
