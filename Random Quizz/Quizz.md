@@ -449,3 +449,99 @@ D. Storage Transfer Service and Coldline Storage for videos, Standard Storage fo
 
 </details>
 
+## Question 24
+
+`A company's VMs are running in a subnet that has a subnet mask of 255.255.255.240. The current subnet has no more free IP addresses and you require an additional 10 IP addresses for new VMs. The existing and new VMs should all be able to reach each other without additional routes.`
+
+A. Create a new subnet with the same starting IP but a wider range to overwrite the current subnet.
+
+B. Use gcloud to expand the IP range of the current subnet.
+
+C. Create a new project. Use Shared VPC to share the current network with the new project.
+
+D. Delete the subnet, and recreate it using a wider range of IP addresses.
+
+<details>
+    <summary>Answer</summary>
+
+    B. Use gcloud to expand the IP range of the current subnet.
+
+</details>
+
+## Question 25
+
+`You have a single file with 32 GB of data to upload to a Nearline Storage bucket. The WAN (wide-area network) connection you are utilizing has a speed of 2 Gbps, and you are the only one on it. To transfer the file quickly, you want to use as much of the speed of 2 Gbps as possible. Cost is not a concern.
+
+What method should you use to upload the file?`
+
+A. Change the storage class of the bucket from Nearline to Multi-Regional.
+
+B. Enable parallel composite uploads using gsutil on the file transfer.
+
+C. Reduce the size of the TCP window on the system that is initiating the transfer.
+
+D. Use a private connection to reduce traffic
+
+<details>
+    <summary>Answer</summary>
+
+    B. Enable parallel composite uploads using gsutil on the file transfer.
+
+</details>
+
+## Question 26
+
+`Your organization would like to obtain significant discounts on your VM instance deployments on Google Cloud. These VM instances need to be fully available. What pricing model would you want to consider?`
+
+A.Committed Use Instances
+
+B. On-Demand Instances
+
+C. Preemptible instances
+
+D.Spot instances
+
+<details>
+    <summary>Answer</summary>
+
+    A. Committed Use Instances
+
+</details>
+
+## Question 27
+
+`What does Google Cloud Marketplace provide?`
+
+A. The ability to quickly deploy functional software packages that run on Google Cloud
+
+B. Sets up Cloud VPN between the infrastructure on-premises and Google Cloud
+
+C. A platform for trading VM instances
+
+D. A centralized billing platform for all Google Cloud services and applications
+
+<details>
+    <summary>Answer</summary>
+
+    A. The ability to quickly deploy functional software packages that run on Google Cloud
+
+</details>
+
+## Question 28
+
+`You have been asked by your Manager to setup some Cloud Storage for some on-premises data that will migrate the cloud. You have been told that you need to have an archive for data over 6 months for DR purposes. What Storage Class would you choose?`
+
+A. Coldline
+
+B. Nearline
+
+C. Standard
+
+D. Archive
+
+<details>
+    <summary>Answer</summary>
+
+    A. Coldline
+
+</details>
